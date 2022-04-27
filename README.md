@@ -1,6 +1,8 @@
-# quick_ec2
+# quick_ec2_ubuntu
 
 This EC2 is for quick testing. 
 
-Uses Amazon Linux AMI. Installs Docker via user data.
-# quick_ec2_ubuntu
+Uses Ubuntu AMI. 40G root volume.
+
+Installs Docker, Git via user data.
+
